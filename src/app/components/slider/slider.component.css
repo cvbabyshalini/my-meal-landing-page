@@ -9,6 +9,7 @@
 .slider-content{
     width: 100vw;
     height: 100vh;
+    background-color: rgba(0, 0, 0, 0.3);
 }
 h1{
     font-size: 70px;
@@ -22,4 +23,8 @@ button.slider-content--cta{
     background: 0 0;
     color: #fff;
     text-decoration: none;
+    text-transform: uppercase;
+    letter-spacing: .2em;
+    font-size: 14px;
+    font-weight: 700;
 }
